@@ -1,0 +1,27 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2em;
+    padding: 2em;
+    background-color: rgb(112, 152, 255);
+    color: white;
+}
+
+footer h1{
+    font-size: 18px;
+}
+
+footer a{
+    font-size: 18;
+    text-decoration: none;
+    color: rgb(238, 255, 0);
+    font-weight: bold;
+    padding: 0.5em;
+    border-radius: 1em;
+}
+
+footer a:hover{
+    background-color: blueviolet;
+    color: white;
+}
