@@ -1,0 +1,21 @@
+.insert-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5vw;
+}
+
+.input-container > input{
+    padding: 0.5vw;
+    border-radius: 1vw;
+}
+
+.input-button{
+    cursor: pointer;
+    border: rgb(72, 72, 72) solid 1px;
+    margin-left: 0.5vw;
+}
+
+.input-button:hover{
+    color: white;
+    background-color: rgb(89, 89, 89);
+}

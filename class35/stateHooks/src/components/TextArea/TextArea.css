@@ -1,0 +1,21 @@
+.mirror-container{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.mirror-text-area{
+    height: 5vh;
+    white-space: pre-wrap; 
+    overflow-wrap: break-word;
+    resize: none;
+}
+
+.mirrored-text{
+    white-space: pre-wrap; /* Preserve as quebras de linha e espaços em branco */
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+}

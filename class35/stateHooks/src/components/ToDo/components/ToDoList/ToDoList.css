@@ -1,0 +1,25 @@
+.task-item{
+    list-style: none;
+    display: flex;
+    gap: 1vw;
+    align-items: start;
+    justify-content: center;
+    background-color: rgb(88, 88, 88);
+    padding: 0.5vw;
+    margin: 0.5vw;
+    border-radius: 1vw;
+}
+
+.task-delete{
+    background: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trash{
+    color: rgb(255, 21, 21);
+    width: 100%;
+    cursor: pointer;
+}
