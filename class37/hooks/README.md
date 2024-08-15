@@ -1,5 +1,5 @@
 # Projects for Class 37
-Projetos da aula 35 incluem:
+Projetos da aula 37 incluem:
 * Card que muda de título e corpo de 30 em 30 segundos, usando o useEffect
 
 ## Acessar
