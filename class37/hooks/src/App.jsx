@@ -1,6 +1,6 @@
 import './App.css'
 // import LifeCycleComponent from './components/LifeCycleComponent/LifeCycleComponent'
-import NewsComponent from './components/LifeCycleComponent/NewsComponent/NewsComponent'
+import NewsComponent from './components/NewsComponent/NewsComponent'
 
 
 function App() {
