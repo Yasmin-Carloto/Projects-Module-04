@@ -52,7 +52,7 @@ const NewsComponent = () => {
                 </div>
             ) : (
                 <div>
-                    <h1 className='news-title'>Não existe nada aqui...</h1>
+                    <h1 className='news-title'>Não há novas notícias...</h1>
                     <p className='news-body'>{news.body}</p>
                 </div>
             )}
