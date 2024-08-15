@@ -22,7 +22,7 @@ git clone https://github.com/Yasmin-Carloto/Projects-Module-04.git
 
 3. Digitar no terminal: 
 ```
-cd ./stateHooks/
+cd ./class35/stateHooks/
 ```
 
 4. Digitar no terminal do diretório do projeto: 

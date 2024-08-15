@@ -3,7 +3,7 @@ Projetos da aula 37 incluem:
 * Card que muda de título e corpo de 30 em 30 segundos, usando o useEffect
 
 ## Acessar
-Está hospedado no Github Pages neste link: []()
+Está hospedado no Github Pages neste link: [https://class37.vercel.app](https://class37.vercel.app)
 
 ## Tecnologias usadas no projeto
 * React
@@ -12,14 +12,14 @@ Está hospedado no Github Pages neste link: []()
 
 1. Coloque no terminal:
 ```
-git clone 
+git clone https://github.com/Yasmin-Carloto/Projects-Module-04.git
 ```
 
 2. Abrir com o VS CODE (ou IDE de preferência)
 
 3. Digitar no terminal: 
 ```
-cd ./hooks/
+cd ./class37/hooks
 ```
 
 4. Digitar no terminal do diretório do projeto: 
