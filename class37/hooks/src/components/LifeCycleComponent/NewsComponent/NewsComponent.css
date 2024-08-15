@@ -1,0 +1,28 @@
+.news-container {
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1vw;
+}
+
+.news-title{
+    background-color: #fec8d8;
+    text-align: center;
+    padding: 0.5vw 1vw;
+    border-radius: 2vw 2vw 0 0;
+}
+
+.news-body{
+    background-color: #d291bc;
+    text-align: justify;
+    padding: 2vw;
+    border-radius: 0 0 2vw 2vw;
+}
+
+.timer-count{
+    text-align: center;
+    margin: 1vw;
+    padding: 0.5vw;
+    font-size: 18px;
+    background-color: #fec8d8;
+    border-radius: 1vw;
+}
