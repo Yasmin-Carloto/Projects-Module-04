@@ -4,7 +4,7 @@ Projetos da aula 38 incluem:
 * Um Form que, de maneira simples, lida com erros do usuário para a submissão do formulário.
 * O terceiro form é um desafio, proposto em aula que segue as seguintes regras: 
     * Objetivo: 
-    Desenvolver um formulário de registro de usuário que colete informações básicas, como nome, email, senha e confirmação de senha. O formulário deve validar os dados inseridos e exibir mensagens de erro apropriadas quando os dados não forem válidos.
+        * Desenvolver um formulário de registro de usuário que colete informações básicas, como nome, email, senha e confirmação de senha. O formulário deve validar os dados inseridos e exibir mensagens de erro apropriadas quando os dados não forem válidos.
     * Requisitos do desafio:
         * Estrutura do Formulário: 
             * Campo para Nome Completo (obrigatório)
