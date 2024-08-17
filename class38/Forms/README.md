@@ -23,7 +23,7 @@ Projetos da aula 38 incluem:
             * Exibir mensagens de erro abaixo dos campos que não passam validações.
             * Exibir uma mensagem de sucesso ao final do formulário quando todos os dados forem válidos e o formulário for submetido.
 ## Acessar
-Está hospedado no Github Pages neste link: []()
+Está hospedado no Github Pages neste link: [https://class38.vercel.app](https://class38.vercel.app)
 
 ## Tecnologias usadas no projeto
 * React
