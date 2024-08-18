@@ -21,5 +21,6 @@ cd ./class37/hooks
 
 4. Digitar no terminal do diretório do projeto: 
 ```
+npm install
 npm run dev
 ```

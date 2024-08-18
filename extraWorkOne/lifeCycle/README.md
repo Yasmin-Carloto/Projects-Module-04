@@ -72,5 +72,6 @@ cd ./extraWorkOne/lifeCycle
 
 4. Digitar no terminal do diretório do projeto: 
 ```
+npm install
 npm run dev
 ```
