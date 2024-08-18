@@ -5,9 +5,6 @@ Projetos da aula 35 incluem:
 * To Do list volátil
 * Navegação de abas
 
-## Acessar
-Está hospedado no Github Pages neste link: [https://class35.vercel.app](https://class35.vercel.app)
-
 ## Tecnologias usadas no projeto
 * React
 

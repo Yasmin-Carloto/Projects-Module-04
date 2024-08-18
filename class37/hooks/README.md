@@ -2,9 +2,6 @@
 Projetos da aula 37 incluem:
 * Card que muda de título e corpo de 30 em 30 segundos, usando o useEffect
 
-## Acessar
-Está hospedado no Github Pages neste link: [https://class37.vercel.app](https://class37.vercel.app)
-
 ## Tecnologias usadas no projeto
 * React
 

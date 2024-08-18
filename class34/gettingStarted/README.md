@@ -1,9 +1,6 @@
 # Header React
 Esse projeto foi desenvolvido como uma das atividades da Trilha síncrona de 6 meses de Desenvolvedor Jr. da +PraTi. Foi feito para a aprendizagem de componentização usando React.
 
-## Acessar o Header React
-O Header está hospedado no Github Pages neste link: [https://header-react-ruby.vercel.app](https://header-react-ruby.vercel.app)
-
 ## Tecnologias usadas no projeto
 * React
 
