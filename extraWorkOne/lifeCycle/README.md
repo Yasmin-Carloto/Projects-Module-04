@@ -54,6 +54,7 @@ Está hospedado no Github Pages neste link: []()
 
 ## Tecnologias usadas no projeto
 * React
+* Tailwind
 
 ## Rodar o projeto em sua máquina
 
