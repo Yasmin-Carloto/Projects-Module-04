@@ -1,8 +1,27 @@
-# React + Vite
+# Projects for Class 40
+Esse projeto foi desenvolvido com o intuito de particar o uso do React Router Dom (Router, Routes, Route e Navigate)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias usadas no projeto
+* React
+* React Router Dom
+* Tailwindcss
 
-Currently, two official plugins are available:
+## Rodar o projeto em sua máquina
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Coloque no terminal:
+```
+git clone https://github.com/Yasmin-Carloto/Projects-Module-04.git
+```
+
+2. Abrir com o VS CODE (ou IDE de preferência)
+
+3. Digitar no terminal: 
+```
+cd ./class40/Routing
+```
+
+4. Digitar no terminal do diretório do projeto: 
+```
+npm install
+npm run dev
+```
